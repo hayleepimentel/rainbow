@@ -1,0 +1,85 @@
+violet {
+    background-color: violet;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+  position: absolute;
+    left: 100px;
+    top: 90px;
+    text-align: center
+}
+
+blue {
+    background-color: blue;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+  position: absolute;
+    left: 100px;
+    top: 150px;
+   text-align: center
+}
+lightgreen {
+    background-color: Chartreuse ;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+  position: absolute;
+    left: 100px;
+    top: 210px;
+   text-align: center
+}
+
+green {
+    background-color: green;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+  position: absolute;
+    left: 100px;
+    top: 275px;
+   text-align: center
+}
+
+yellow {
+    background-color: yellow;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+  position: absolute;
+    left: 100px;
+    top: 335px;
+   text-align: center
+}
+
+orange {
+    background-color: Orange;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+  position: absolute;
+    left: 100px;
+    top: 400px;
+   text-align: center
+}
+
+red {
+    background-color: red;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+  position: absolute;
+    left: 100px;
+    top: 465px;
+   text-align: center
+}
+
+.box {
+   position: absolute;
+    left: 80px;
+    top: 60px;
+  width: 340px;
+  height: 440px;
+  margin: 5px;
+  border: 50px solid rgba(128, 128, 128, 1);
+}
